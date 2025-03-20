@@ -11,20 +11,24 @@
       "RelativeMoniker": "D:0:0:{7074FEE1-2EB4-417C-AD68-005B4F372397}|BD\\BD.csproj|solutionrelative:bd\\models\\tea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7074FEE1-2EB4-417C-AD68-005B4F372397}|BD\\BD.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\2 week\\bd\\bd\\controllers\\teacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7074FEE1-2EB4-417C-AD68-005B4F372397}|BD\\BD.csproj|solutionrelative:bd\\controllers\\teacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7074FEE1-2EB4-417C-AD68-005B4F372397}|BD\\BD.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\2 week\\bd\\bd\\migrations\\teadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7074FEE1-2EB4-417C-AD68-005B4F372397}|BD\\BD.csproj|solutionrelative:bd\\migrations\\teadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7074FEE1-2EB4-417C-AD68-005B4F372397}|BD\\BD.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\2 week\\bd\\bd\\data\\teadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7074FEE1-2EB4-417C-AD68-005B4F372397}|BD\\BD.csproj|solutionrelative:bd\\data\\teadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7074FEE1-2EB4-417C-AD68-005B4F372397}|BD\\BD.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\2 week\\bd\\bd\\migrations\\20250317161353_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7074FEE1-2EB4-417C-AD68-005B4F372397}|BD\\BD.csproj|solutionrelative:bd\\migrations\\20250317161353_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7074FEE1-2EB4-417C-AD68-005B4F372397}|BD\\BD.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\2 week\\bd\\bd\\dtos\\updateteadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7074FEE1-2EB4-417C-AD68-005B4F372397}|BD\\BD.csproj|solutionrelative:bd\\dtos\\updateteadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7074FEE1-2EB4-417C-AD68-005B4F372397}|BD\\BD.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\2 week\\bd\\bd\\dtos\\createteadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7074FEE1-2EB4-417C-AD68-005B4F372397}|BD\\BD.csproj|solutionrelative:bd\\dtos\\createteadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7074FEE1-2EB4-417C-AD68-005B4F372397}|BD\\BD.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\2 week\\bd\\bd\\dtos\\updateteadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7074FEE1-2EB4-417C-AD68-005B4F372397}|BD\\BD.csproj|solutionrelative:bd\\dtos\\updateteadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7074FEE1-2EB4-417C-AD68-005B4F372397}|BD\\BD.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\2 week\\bd\\bd\\data\\teadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7074FEE1-2EB4-417C-AD68-005B4F372397}|BD\\BD.csproj|solutionrelative:bd\\data\\teadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,61 +60,9 @@
               "RelativeDocumentMoniker": "BD\\Program.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\Program.cs",
               "RelativeToolTip": "BD\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:08:08.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TeaController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\Controllers\\TeaController.cs",
-              "RelativeDocumentMoniker": "BD\\Controllers\\TeaController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\Controllers\\TeaController.cs",
-              "RelativeToolTip": "BD\\Controllers\\TeaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:11:26.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TeaDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\Data\\TeaDbContext.cs",
-              "RelativeDocumentMoniker": "BD\\Data\\TeaDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\Data\\TeaDbContext.cs",
-              "RelativeToolTip": "BD\\Data\\TeaDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:11:25.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateTeaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\DTOs\\CreateTeaDTO.cs",
-              "RelativeDocumentMoniker": "BD\\DTOs\\CreateTeaDTO.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\DTOs\\CreateTeaDTO.cs",
-              "RelativeToolTip": "BD\\DTOs\\CreateTeaDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:11:24.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdateTeaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\DTOs\\UpdateTeaDTO.cs",
-              "RelativeDocumentMoniker": "BD\\DTOs\\UpdateTeaDTO.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\DTOs\\UpdateTeaDTO.cs",
-              "RelativeToolTip": "BD\\DTOs\\UpdateTeaDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:11:23.051Z",
+              "WhenOpened": "2025-03-18T11:33:37.216Z",
               "EditorCaption": ""
             },
             {
@@ -123,7 +75,72 @@
               "RelativeToolTip": "BD\\Models\\Tea.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T16:11:21.284Z",
+              "WhenOpened": "2025-03-18T11:33:32.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeaDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\Migrations\\TeaDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BD\\Migrations\\TeaDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\Migrations\\TeaDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BD\\Migrations\\TeaDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:33:16.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250317161353_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\Migrations\\20250317161353_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BD\\Migrations\\20250317161353_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\Migrations\\20250317161353_InitialCreate.cs",
+              "RelativeToolTip": "BD\\Migrations\\20250317161353_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:33:02.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateTeaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\DTOs\\UpdateTeaDTO.cs",
+              "RelativeDocumentMoniker": "BD\\DTOs\\UpdateTeaDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\DTOs\\UpdateTeaDTO.cs",
+              "RelativeToolTip": "BD\\DTOs\\UpdateTeaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:32:56.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateTeaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\DTOs\\CreateTeaDTO.cs",
+              "RelativeDocumentMoniker": "BD\\DTOs\\CreateTeaDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\DTOs\\CreateTeaDTO.cs",
+              "RelativeToolTip": "BD\\DTOs\\CreateTeaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:32:50.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\Data\\TeaDbContext.cs",
+              "RelativeDocumentMoniker": "BD\\Data\\TeaDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\2 week\\BD\\BD\\Data\\TeaDbContext.cs",
+              "RelativeToolTip": "BD\\Data\\TeaDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T16:11:25.548Z",
               "EditorCaption": ""
             }
           ]

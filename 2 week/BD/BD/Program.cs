@@ -18,7 +18,7 @@ app.UseSwaggerUI();
 
 app.MapPost("/tea", async (CreateTeaDTO dto, TeaDbContext dbContext) =>
 {
-    var tea = new Tea(dto.Name ?? "Неизвестный чай", dto.Description ?? "Описание не предоставлено", dto.Price ?? 0);
+    var tea = new Tea(dto.Name ?? "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ", dto.Description ?? "пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ", dto.Price ?? 0);
     dbContext.Teas.Add(tea);
     await dbContext.SaveChangesAsync();
     return Results.Created($"/tea/{tea.Id}", tea);
@@ -29,7 +29,7 @@ app.MapPut("/tea/{id}", async (UpdateTeaDTO dto, int id, TeaDbContext dbContext)
     var tea = await dbContext.Teas.FindAsync(id);
     if (tea == null)
     {
-        return Results.NotFound("Чай не найден");
+        return Results.NotFound("пїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ");
     }
 
     if (dto.Name != null) tea.Name = dto.Name;
@@ -45,7 +45,7 @@ app.MapDelete("/tea/{id}", async (int id, TeaDbContext dbContext) =>
     var tea = await dbContext.Teas.FindAsync(id);
     if (tea == null)
     {
-        return Results.NotFound("Чай не найден");
+        return Results.NotFound("пїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ");
     }
 
     dbContext.Teas.Remove(tea);
