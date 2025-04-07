@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Car\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88969FE7-3BEF-4768-A162-7D796BF16D65}|Car\\Car.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\3 week\\car\\car\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88969FE7-3BEF-4768-A162-7D796BF16D65}|Car\\Car.csproj|solutionrelative:car\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88969FE7-3BEF-4768-A162-7D796BF16D65}|Car\\Car.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\3 week\\car\\car\\data\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88969FE7-3BEF-4768-A162-7D796BF16D65}|Car\\Car.csproj|solutionrelative:car\\data\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88969FE7-3BEF-4768-A162-7D796BF16D65}|Car\\Car.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\3 week\\car\\car\\dtos\\updatecardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88969FE7-3BEF-4768-A162-7D796BF16D65}|Car\\Car.csproj|solutionrelative:car\\dtos\\updatecardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88969FE7-3BEF-4768-A162-7D796BF16D65}|Car\\Car.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\3 week\\car\\car\\dtos\\createcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88969FE7-3BEF-4768-A162-7D796BF16D65}|Car\\Car.csproj|solutionrelative:car\\dtos\\createcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88969FE7-3BEF-4768-A162-7D796BF16D65}|Car\\Car.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\3 week\\car\\car\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88969FE7-3BEF-4768-A162-7D796BF16D65}|Car\\Car.csproj|solutionrelative:car\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Car\\Car\\Program.cs",
+              "RelativeDocumentMoniker": "Car\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Car\\Car\\Program.cs",
+              "RelativeToolTip": "Car\\Program.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowJMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:32:12.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Car\\Car\\Data\\CarDbContext.cs",
+              "RelativeDocumentMoniker": "Car\\Data\\CarDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Car\\Car\\Data\\CarDbContext.cs",
+              "RelativeToolTip": "Car\\Data\\CarDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:31:36.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCarDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Car\\Car\\DTOs\\CreateCarDTO.cs",
+              "RelativeDocumentMoniker": "Car\\DTOs\\CreateCarDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Car\\Car\\DTOs\\CreateCarDTO.cs",
+              "RelativeToolTip": "Car\\DTOs\\CreateCarDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:31:18.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateCarDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Car\\Car\\DTOs\\UpdateCarDTO.cs",
+              "RelativeDocumentMoniker": "Car\\DTOs\\UpdateCarDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Car\\Car\\DTOs\\UpdateCarDTO.cs",
+              "RelativeToolTip": "Car\\DTOs\\UpdateCarDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:30:55.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Car\\Car\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Car\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Car\\Car\\Models\\Car.cs",
+              "RelativeToolTip": "Car\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:30:21.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

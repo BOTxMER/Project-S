@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA48471B-1E4B-47AB-8C34-74CDF850B6C0}|Game\\Game.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\3 week\\game\\game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA48471B-1E4B-47AB-8C34-74CDF850B6C0}|Game\\Game.csproj|solutionrelative:game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA48471B-1E4B-47AB-8C34-74CDF850B6C0}|Game\\Game.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\3 week\\game\\game\\dtos\\updategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA48471B-1E4B-47AB-8C34-74CDF850B6C0}|Game\\Game.csproj|solutionrelative:game\\dtos\\updategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA48471B-1E4B-47AB-8C34-74CDF850B6C0}|Game\\Game.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\3 week\\game\\game\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA48471B-1E4B-47AB-8C34-74CDF850B6C0}|Game\\Game.csproj|solutionrelative:game\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA48471B-1E4B-47AB-8C34-74CDF850B6C0}|Game\\Game.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\3 week\\game\\game\\data\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA48471B-1E4B-47AB-8C34-74CDF850B6C0}|Game\\Game.csproj|solutionrelative:game\\data\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA48471B-1E4B-47AB-8C34-74CDF850B6C0}|Game\\Game.csproj|c:\\users\\user\\desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\project s\\3 week\\game\\game\\dtos\\creategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA48471B-1E4B-47AB-8C34-74CDF850B6C0}|Game\\Game.csproj|solutionrelative:game\\dtos\\creategamedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Game\\Game\\Data\\GameDbContext.cs",
+              "RelativeDocumentMoniker": "Game\\Data\\GameDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Game\\Game\\Data\\GameDbContext.cs",
+              "RelativeToolTip": "Game\\Data\\GameDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:50:10.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateGameDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Game\\Game\\DTOs\\CreateGameDTO.cs",
+              "RelativeDocumentMoniker": "Game\\DTOs\\CreateGameDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Game\\Game\\DTOs\\CreateGameDTO.cs",
+              "RelativeToolTip": "Game\\DTOs\\CreateGameDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:49:53.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateGameDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Game\\Game\\DTOs\\UpdateGameDTO.cs",
+              "RelativeDocumentMoniker": "Game\\DTOs\\UpdateGameDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Game\\Game\\DTOs\\UpdateGameDTO.cs",
+              "RelativeToolTip": "Game\\DTOs\\UpdateGameDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:49:28.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Game\\Game\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Game\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Game\\Game\\Models\\Game.cs",
+              "RelativeToolTip": "Game\\Models\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:48:57.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Game\\Game\\Program.cs",
+              "RelativeDocumentMoniker": "Game\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Project S\\3 week\\Game\\Game\\Program.cs",
+              "RelativeToolTip": "Game\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T12:36:59.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
