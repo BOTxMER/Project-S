@@ -1,8 +1,0 @@
-C:\Users\User\Desktop\программирование\Project S\3 week\Car\Car\obj\Debug\net8.0\Car.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\программирование\Project S\3 week\Car\Car\obj\Debug\net8.0\Car.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\Desktop\программирование\Project S\3 week\Car\Car\obj\Debug\net8.0\Car.AssemblyInfoInputs.cache
-C:\Users\User\Desktop\программирование\Project S\3 week\Car\Car\obj\Debug\net8.0\Car.AssemblyInfo.cs
-C:\Users\User\Desktop\программирование\Project S\3 week\Car\Car\obj\Debug\net8.0\Car.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\программирование\Project S\3 week\Car\Car\obj\Debug\net8.0\Car.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\User\Desktop\программирование\Project S\3 week\Car\Car\obj\Debug\net8.0\Car.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\User\Desktop\программирование\Project S\3 week\Car\Car\obj\Debug\net8.0\Car.sourcelink.json
